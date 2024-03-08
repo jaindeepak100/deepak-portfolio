@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/barco/event_master.png
+image: img/barco/E2.png
 title: "Event Master"
 date: 2014
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "User interface to control your video processing system in real time."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/barco/event_master.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 

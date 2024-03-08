@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
+image: img/barco/event_master.png
+title: "Event Master"
 date: 2014
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Qt
+  - C++
+summary: "User interface to control your video processing system in real time."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">

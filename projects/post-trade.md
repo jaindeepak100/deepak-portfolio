@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: img/post-trade/post.png
-title: "Vacay"
-date: 2015
+title: "Post Trade"
+date: 2023
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Java
+  - Python
+  - PostgreSQL
+  - Git
+summary: "Front to back reconicllation over 100 markets, requiring minimal intervention"
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
